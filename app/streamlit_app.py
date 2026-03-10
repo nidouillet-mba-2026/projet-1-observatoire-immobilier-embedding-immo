@@ -1,5 +1,4 @@
 # Dashboard principal
-# Dashboard principal
 import sys
 import os
 
